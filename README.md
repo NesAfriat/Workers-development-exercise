@@ -39,7 +39,7 @@ Now to the big Menu-  (Keep reading below)
 Explanation about the task:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there are 4 main functions that were asked to implement:
-- Print all workers assignments (13) (and for bonus the personal (12))
+- Print all workers assignments (13) (I also implemented personal option(12))
 - Print all workers reports to managers aggregated by managers.(11)
 - Calculate month salaries for each company employee.(9) (and to get yours -(10)
 - Edit phone number and adress of another employee. (8)
